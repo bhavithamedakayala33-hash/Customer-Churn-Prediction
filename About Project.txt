@@ -1,0 +1,29 @@
+# Customer Churn Prediction using Machine Learning
+
+## Overview
+This project predicts customer churn using the Telco Customer Churn dataset. A Random Forest Classifier is used to identify customers who are likely to leave the company.
+
+## Features
+- Data Preprocessing
+- Label Encoding
+- Feature Selection
+- Random Forest Classification
+- Customer Risk Score Prediction
+- Customer Churn Dashboard
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
+
+## Dataset
+Telco Customer Churn Dataset
+
+## Machine Learning Algorithm
+Random Forest Classifier
+
+## Author
+Bhavitha Medakayala
